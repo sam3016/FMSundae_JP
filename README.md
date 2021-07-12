@@ -8,7 +8,7 @@ A revision app for Claris FileMaker Certification.
 
 I will update it when the original version is updated. 
 
-I have used DeepL API to translate part of the content and modify some un-natural wording.
+I have used DeepL API to translate part of the content and modify some un-natural expressions.
 
 If you found any problems of the translation, please message through twitter(@samsam0316)or email me(samhui007@protonmail.com). 
 
