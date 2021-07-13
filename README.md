@@ -4,7 +4,7 @@ Originally from https://www.fmsundae.com
 
 FNSundae App in Japanese.
 
-A revision app for Claris FileMaker Certification.
+A revision app for Claris FileMaker Certification. not for commerical usage.
 
 I will update it when the original version is updated. 
 
@@ -19,7 +19,7 @@ Thank you.
 ＃日本語
 FMSundaeの日本語バーションです。
 
-Claris FileMaker認定試験の勉強アプリです。
+Claris FileMaker認定試験の勉強アプリです。商用はご遠慮ください。
 
 このアプリが更新したら、はやめに対応します。
 
