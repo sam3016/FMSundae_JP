@@ -1,4 +1,4 @@
-# <h2>FMSundae_JP</h2>
+# <h2>FMSundae JP</h2>
 
 Originally from https://www.fmsundae.com
 
